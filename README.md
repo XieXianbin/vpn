@@ -1,0 +1,2 @@
+# vpn
+vpn install script.
